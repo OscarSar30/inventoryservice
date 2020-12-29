@@ -7,6 +7,8 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
+
+	"github.com/OscarSar30/inventoryservice/cors"
 )
 
 const productsBasePath = "products"
